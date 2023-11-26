@@ -10,3 +10,6 @@
   - Create express server that listens to a port and mongoDB to connect to it.
   - Update Start script in package.json file with nodemon for Watching file changes.
   - Run the code with npm start.
+
+- setup MongoDB URL:
+  signIn to mongoDB Atlas (cloud database), create your own database and the user then get the url from connection configuration.
