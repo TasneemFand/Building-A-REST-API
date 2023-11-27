@@ -20,5 +20,6 @@
   signIn to mongoDB Atlas (cloud database), create your own database and the user then get the url from connection configuration.
 
   The workflow of Express (Routes and Controllers): 
-  ![express](https://github.com/TasneemFand/Building-A-REST-API/public/mvc_express.png)
+  ![express](https://github.com/TasneemFand/Building-A-REST-API/blob/main/public/mvc_express.png)
+
 
